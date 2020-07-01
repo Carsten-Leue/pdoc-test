@@ -1,2 +1,2 @@
 doc:
-	pdoc --html --force -o docs pdoc_test
+	pdoc --html --force --config show_type_annotations=True -o docs pdoc_test
