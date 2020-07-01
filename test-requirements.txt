@@ -1,0 +1,13 @@
+autopep8
+bump2version
+check-manifest
+codecov
+coverage
+flake8
+mypy
+pdoc3
+pylint
+pytest
+pytest-cov
+setuptools
+twine
